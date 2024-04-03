@@ -1,3 +1,16 @@
+<h1><i>TO DO APP REACT-NATIVE</i></h1>
+<p>I have developed a to-do list application for my project. Users can add items to the list, and as they add items, the number of to-dos in the list increases. When a to-do item is touched once, it appears in red with a strikethrough, indicating that it is completed. If the user holds down on a to-do item, they can completely delete it, and the number of to-dos in the list decreases accordingly.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+<div style="display-flex">
+   <img src="SS3.png">
+   <img src="SS4.png">
+</div>
+<img src="SS5.png">
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
